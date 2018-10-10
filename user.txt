@@ -1,1 +1,0 @@
-user1 written a code and pushed to github and user 2 is trying to pull that
